@@ -1,0 +1,14 @@
+.nav-custom{
+ background-color: rgb(238, 228, 209);
+}
+.image{
+    background-color: white;
+    margin-top: 20px;
+    padding-left: 10%;
+    width: 30%;
+    height: 200px;
+}
+.content {
+    background-attachment: fixed;
+    background-color: whitesmoke;
+}
